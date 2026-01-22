@@ -1,0 +1,87 @@
+====================================
+PlantApp – Paleta de Colores y Fuentes
+====================================
+
+--------------------
+PALETA DE COLORES
+--------------------
+
+Verde principal (Brand / Botones / Títulos)
+HEX: #7FA93A
+RGB: 127, 169, 58
+Uso: Logo, botones principales, títulos, iconos.
+
+Verde secundario (Hover / Detalles)
+HEX: #6E952F
+RGB: 110, 149, 47
+Uso: Hover de botones, bordes, ilustraciones secundarias.
+
+Blanco base (Fondo)
+HEX: #FFFFFF
+RGB: 255, 255, 255
+Uso: Fondo principal de la aplicación y páginas de error.
+
+Gris texto secundario
+HEX: #6B6B6B
+RGB: 107, 107, 107
+Uso: Mensajes de ayuda, textos secundarios, footer.
+
+Gris muy claro (Fondos suaves)
+HEX: #F5F5F5
+RGB: 245, 245, 245
+Uso: Cards, contenedores, sombras suaves.
+
+--------------------
+FUENTES (TIPOGRAFÍA)
+--------------------
+
+Fuente principal (Texto general)
+Nombre: Inter
+Tipo: Sans-serif
+Uso: Texto general, mensajes, descripciones.
+CSS:
+font-family: 'Inter', sans-serif;
+
+Fuente para títulos y números grandes
+Nombre: Poppins
+Tipo: Sans-serif
+Uso: Títulos, números grandes (ej. "400"), botones.
+CSS:
+font-family: 'Poppins', sans-serif;
+
+Fuente alternativa (opcional)
+Nombre: Roboto
+Tipo: Sans-serif
+Uso: Texto general si se requiere una alternativa.
+CSS:
+font-family: 'Roboto', sans-serif;
+
+--------------------
+RECOMENDACIÓN DE USO
+--------------------
+
+Body:
+Inter – peso 400 / 500
+
+Títulos (H1, H2, números grandes):
+Poppins – peso 600 / 700
+
+Botones:
+Poppins o Inter – peso 500 / 600
+
+--------------------
+GOOGLE FONTS
+--------------------
+
+Inter:
+https://fonts.google.com/specimen/Inter
+
+Poppins:
+https://fonts.google.com/specimen/Poppins
+
+Roboto:
+https://fonts.google.com/specimen/Roboto
+
+====================================
+Fin del archivo
+====================================

@@ -11,7 +11,7 @@ Este es el repositorio del front-end para el proyecto PlantApp, desarrollado con
 
 ## API Alojada en el repositorio 
 
-https://github.com/NenJacp/PlantApp_Back-End.git
+[API](https://github.com/NenJacp/PlantApp_Back-End.git)
 
 ## Instalación y Ejecución
 

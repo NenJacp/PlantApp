@@ -51,8 +51,7 @@ No debe compartirse ni subirse al repositorio.
 
 ### Notas importantes
 
-- El archivo `.env` no lo subire por lo cual tu tendras que poner valores, que no necesariamente tienen que ser validas pero son importantes
-- ya que las intentara cargar el Program.cs de la capa Presentation
+- El archivo `.env` no lo subire por lo cual tu tendras que poner valores, que no necesariamente tienen que ser validas pero son importantes ya que las intentara cargar el Program.cs de la capa Presentation
 - Con esto ya puedes usar el boton ir a debugger-api
 
 

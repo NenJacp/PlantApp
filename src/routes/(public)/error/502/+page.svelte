@@ -12,7 +12,7 @@
                     <img
                         src="/Error/502.png"
                         alt="Error 502"
-                        class="h-60 w-60"
+                        class="h-60 w-70"
                     />
                 </div>
                 <h2 class="text-3xl font-semibold text-gray-800">

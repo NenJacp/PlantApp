@@ -13,7 +13,16 @@ Este es el repositorio del front-end para el proyecto PlantApp, desarrollado con
 
 [API](https://github.com/NenJacp/PlantApp_Back-End.git)
 ### NOTA: La api no es requerida si solo quiere ver las paginas de errores, usando el boton de ir a debugger, si quiere verlas con respecto a respuestas que devuelva la api puede hacerlo pero requeriras de un .env que tenga los siguentes claves
-### Variables de Entorno requeridas:
+
+### Variables de Entorno del Front-End (SvelteKit)
+
+#### API_BASE_URL
+URL base de la API (ej. `http://localhost:5247`). Se usa en la página de login (registro) y en debug-api para no exponer la URL en el código. Añade en tu `.env`:
+```
+API_BASE_URL=http://localhost:5247
+```
+
+### Variables de Entorno requeridas (Backend / Presentation):
 #### DB_HOST
 Dirección del servidor de base de datos PostgreSQL.  
 Ejemplo: `localhost` o el nombre del servicio en Docker.
